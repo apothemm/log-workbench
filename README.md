@@ -1,6 +1,6 @@
 # LogWorkbench
 
-![CI](https://github.com/modeAlohadance/log-workbench/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/apothemm/log-workbench/actions/workflows/ci.yml/badge.svg)
 
 C# / .NET 10. Утилита для поиска и анализа текстовых логов и JSONL без отправки данных на сервер.
 
